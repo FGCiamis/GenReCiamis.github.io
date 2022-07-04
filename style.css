@@ -1,0 +1,56 @@
+.img {
+  padding-right: 1pt;
+}
+
+.navbar {
+  background-color: rgb(255, 221, 128);
+}
+.jumbotron {
+  background-image: url(img/BG-awal2.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding-top: 5rem;
+}
+
+section {
+  padding-top: 10rem;
+}
+
+.display-4 {
+  padding-top: 50pt;
+  font-size: 60px;
+  letter-spacing: 5px;
+  font-family: impact;
+}
+
+.lead {
+  padding-top: 20pt;
+  font-size: 30px;
+  font-family: Helvetica;
+}
+
+.about {
+  padding-bottom: 200pt;
+}
+
+.gallery {
+  background-color: rgb(255, 221, 128);
+  padding-bottom: 5pt;
+}
+
+footer {
+  background-color: rgb(255, 221, 128);
+}
+
+.IG {
+  padding-right: 5pt;
+}
+
+.bi-instagram {
+  padding: 0 5pt 0 5pt;
+}
+
+.forum {
+  padding-left: 5pt;
+}
